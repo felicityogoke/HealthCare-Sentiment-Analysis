@@ -1,16 +1,18 @@
 # HealthCare-Sentiment-Analysis
 
 The following libraries were used in this study:
-• numpy - It is a library used for numerical computing in Python. It is particularly
-useful for handling large arrays and matrices.
-• pandas - It is a library used for data manipulation and analysis in Python. It
+
+- numpy - It is a library used for numerical computing in Python. It is particularly useful for handling large arrays and matrices.
+
+- pandas - It is a library used for data manipulation and analysis in Python. It
 provides data structures like DataFrames and Series, which are very useful
 for handling tabular data.
-13
-• tensorflow - It is an open-source library used for machine learning and deep
+
+- tensorflow - It is an open-source library used for machine learning and deep
 learning. It provides a range of tools and resources for building and training
 machine learning models.
-• matplotlib - It is a plotting library used for creating visualizations in Python.
+
+- matplotlib - It is a plotting library used for creating visualizations in Python.
 It provides a range of tools for creating 2D and 3D plots.
 • seaborn - A data visualization library built on top of matplotlib. It provides a
 range of high-level interfaces for creating attractive and informative statistical
