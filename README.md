@@ -26,7 +26,7 @@ processes. It was used to display progress bars during training.
 a range of tools for classification, regression, and clustering. It was
 used for model selection and preprocessing.
 
- -keras - A high-level neural networks API written in Python. It is built on top
+ - keras - A high-level neural networks API written in Python. It is built on top
 of TensorFlow and provides a range of tools for building and training deep
 learning models. In the code, it was used for building the neural network
 models.
